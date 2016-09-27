@@ -531,12 +531,8 @@ a.button small {
   font-size: 11px;
 }
 header a.button {
-  display: block;
-  width: 138px;
-  padding-left: 64px;
-  margin-bottom: 20px;
-  font-size: 21px;
-  background: transparent url(../images/button.png) 0 0 no-repeat;
+
+  background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
 
 aside a.button {
